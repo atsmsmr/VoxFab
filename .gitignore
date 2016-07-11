@@ -1,0 +1,6 @@
+Makefile
+release/
+GeneratedFiles/
+.DS_Store
+*.pro.user
+
